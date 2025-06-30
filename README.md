@@ -14,14 +14,6 @@ O projeto visa implementar um sistema de orçamento e informações eficaz que p
 º Garantir a conformidade com requisitos legais e regulamentares;  
 Promover a colaboração e comunicação eficaz entre cliente e colaborador.
 
-## Integrantes
-
-* Diogo Victor Santos Silva
-* Nathan Teixeira Rizzatte
-* Érica Rodrigues Almeida Almarim
-* Matheus Oliveira Rosário
-* Bruno da Silva Lobo
-
 ## Orientador
 
 * Pedro Alves de Oliveira
