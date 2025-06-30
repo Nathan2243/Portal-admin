@@ -21,7 +21,6 @@ Promover a colaboração e comunicação eficaz entre cliente e colaborador.
 * Érica Rodrigues Almeida Almarim
 * Matheus Oliveira Rosário
 * Bruno da Silva Lobo
-* Anthony Gabriel Santana Dos Santos
 
 ## Orientador
 
